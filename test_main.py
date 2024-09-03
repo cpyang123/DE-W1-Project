@@ -1,4 +1,9 @@
 from main import add
 
-if __name__ == '__main__':
-    assert add(1,2) == 3
+
+def test():
+    assert add(1, 3) == 4
+
+
+if __name__ == "__main__":
+    test()
