@@ -1,7 +1,7 @@
 name: Python Application Test with Github Actions by Peter
 on:
   schedule:
-  - cron:  '0 3 * * SUN'
+  - cron:  '0 1 * * SUN'
   push:
     branches: [ "main" ]
   pull_request:
