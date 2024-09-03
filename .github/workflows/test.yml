@@ -1,4 +1,4 @@
-name: Python Application Test with Github Actions 
+name: Python Application Test with Github Actions by Peter
 on:
   schedule:
   - cron:  '0 3 * * SUN'
