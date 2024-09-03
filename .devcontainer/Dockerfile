@@ -4,7 +4,7 @@ FROM mcr.microsoft.com/vscode/devcontainers/universal:2-focal
 # RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
 #     && apt-get -y install --no-install-recommends <your-package-list-here>
 RUN apt-get update && apt-get -y install --no-install-recommends \
-   python3.10.4-venv \
+    3.10.14-venv \
    gcc 
    
 ARG USER="codespace"
