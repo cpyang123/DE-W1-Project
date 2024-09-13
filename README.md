@@ -2,3 +2,5 @@
 
 # DE-W1-Project
 This is the project scaffolding
+
+The test_main.py file has tests to test the main function in main.py. 
