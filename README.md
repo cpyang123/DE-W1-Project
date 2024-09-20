@@ -3,4 +3,10 @@
 # DE-W1-Project
 This is the project scaffolding
 
-The test_main.py file has tests to test the main function in main.py. 
+Project Structure:
+- Makefile: Contains commands to build, test and deploy the project
+- main.py contains the main functions
+- requirements.txt contains the main libraries
+- test_main.py contains the tests for the main functions
+- .devcontainer contains the Dockerfile and the devcontainer.json file for container environment
+
