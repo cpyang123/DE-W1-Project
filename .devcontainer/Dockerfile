@@ -3,7 +3,7 @@
 FROM mcr.microsoft.com/vscode/devcontainers/universal:2-focal
 
 RUN apt-get update && apt-get -y install --no-install-recommends \
-    3.10.14-venv \
+    3.10.15-venv \
    gcc 
    
 ARG USER="codespace"
