@@ -1,4 +1,4 @@
-// Make a devcontianer json for general stuff, Python 3.0.14
+// Make a devcontianer json for general stuff, Python 3.0.15
 
 {
     "name": "Python 3",
@@ -7,7 +7,7 @@
         "context": "..",
         "args": {
 
-            "VARIANT": "3.10.15,
+            "VARIANT": "3.10.15",
             // Options
             "NODE_VERSION": "none"
         }
